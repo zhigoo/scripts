@@ -1,4 +1,4 @@
-scripts
+small script tool
 =======
 
-small script
+1. ifrates.sh : a small tool to get the network interface rates
