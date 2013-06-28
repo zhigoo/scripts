@@ -3,7 +3,7 @@
 #Create:2011-1103
 #Modify:2013-0617
 
-# get network rate 
+# get network interface rates 
 
 function usage
 {
